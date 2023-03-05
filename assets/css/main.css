@@ -294,7 +294,7 @@ input, select, textarea {
 	body, input, select, textarea {
 		color: rgba(255, 255, 255, 0.75);
 		font-family: "Source Sans Pro", Helvetica, sans-serif;
-		font-size: 1rem;
+		font-size: 1.5rem;
 		font-weight: 300;
 		line-height: 1.65;
 	}
